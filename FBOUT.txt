@@ -1,0 +1,192 @@
+ABI                       ; Abilene Regional Airport                                                                             ; 1009.2 mb            ; 25.0                                                                                                 ; 546             ; 32.43                     ; -99.68                   
+
+ABQ                       ; Albuquerque International  Airport                                                                   ; null ; null ; 1631            ; 106-36W                   ; 35-02N                   
+
+ABR                       ; Aberdeen Regional Airport                                                                            ; 1015.7 mb            ; 24.1                                                                                                 ; 397             ; 45.46                     ; -98.43                   
+
+ACK                       ; null ; null ; null ; null ; null ; null
+
+ACY                       ; Atlantic City International                                                                          ; null ; null ; 23              ; 74-35W                    ; 39-28N                   
+
+AGC                       ; null ; null ; null ; null ; null ; null
+
+ALB                       ; Albany International Airport                                                                         ; null ; null ; 87              ; 73-48W                    ; 42-45N                   
+
+ALS                       ; San Luis Valley Regional                                                                             ; null ; null ; 2297            ; 105-52W                   ; 37-26N                   
+
+AMA                       ; Amarillo International  Airport                                                                      ; null ; null ; 1099            ; 101-43W                   ; 35-13N                   
+
+AST                       ; Port Of Astoria Airport                                                                              ; null ; null ; 3               ; 123-53W                   ; 46-09N                   
+
+ATL                       ; Hartsfield-jackson Atlanta                                                                           ; null ; null ; 313             ; 84-26W                    ; 33-39N                   
+
+AVP                       ; Wilkes-barre/scranton International                                                                  ; null ; null ; 293             ; 75-44W                    ; 41-20N                   
+
+AXN                       ; null ; null ; null ; null ; null ; null
+
+BAM                       ; null ; null ; null ; null ; null ; null
+
+BCE                       ; null ; null ; null ; null ; null ; null
+
+BDL                       ; Bradley International Airport                                                                        ; null ; null ; 53              ; 072-41W                   ; 41-56N                   
+
+BFF                       ; Scottsbluff Heilig Field                                                                             ; null ; null ; 1209            ; 103-36W                   ; 41-52N                   
+
+BGR                       ; null ; null ; null ; null ; null ; null
+
+BHM                       ; null ; null ; null ; 196             ; 086-45W                   ; 33-34N                   
+
+BIH                       ; Bishop Airport                                                                                       ; null ; null ; 1256            ; 118-22W                   ; 37-22N                   
+
+BIL                       ; Logan International Airport                                                                          ; null ; null ; 1112            ; 108-33W                   ; 45-49N                   
+
+BLH                       ; null ; null ; null ; null ; null ; null
+
+BML                       ; Berlin Municipal Airport                                                                             ; null ; null ; 353             ; 71-11W                    ; 44-35N                   
+
+BNA                       ; Nashville International  Airport                                                                     ; null ; null ; 183             ; 086-41W                   ; 36-07N                   
+
+BOI                       ; Boise Air Terminal                                                                                   ; null ; null ; 871             ; 116-14W                   ; 43-34N                   
+
+BOS                       ; Boston Logan International                                                                           ; null ; null ; 6               ; 071-01W                   ; 42-22N                   
+
+BRL                       ; null ; null ; null ; null ; null ; null
+
+BRO                       ; Brownsville/south Padre Is                                                                           ; null ; null ; 7               ; 97-25W                    ; 25-54N                   
+
+BUF                       ; Greater Buffalo International  Airport                                                               ; null ; null ; 221             ; 078-44W                   ; 42-56N                   
+
+CAE                       ; Columbia Metropolitan Airport                                                                        ; null ; null ; 72              ; 081-07W                   ; 33-57N                   
+
+CAR                       ; Caribou Municipal Airport                                                                            ; null ; null ; 191             ; 68-01W                    ; 46-52N                   
+
+CGI                       ; null ; null ; null ; null ; null ; null
+
+CHS                       ; null ; null ; null ; 14              ; 080-02W                   ; 32-54N                   
+
+CLE                       ; Cleveland-hopkins International                                                                      ; null ; null ; 241             ; 081-51W                   ; 41-24N                   
+
+CLL                       ; null ; null ; null ; null ; null ; null
+
+CMH                       ; Port Columbus International  Airport                                                                 ; null ; null ; 248             ; 82-53W                    ; 40-00N                   
+
+COU                       ; Columbia Regional Airport                                                                            ; null ; null ; 271             ; 092-13W                   ; 38-49N                   
+
+CRP                       ; Corpus Christi International                                                                         ; null ; null ; 13              ; 97-31W                    ; 27-46N                   
+
+CRW                       ; Yeager Airport                                                                                       ; null ; null ; 299             ; 081-36W                   ; 38-22N                   
+
+CSG                       ; null ; null ; null ; null ; null ; null
+
+CVG                       ; Cincinnati/northern Ky International                                                                 ; null ; null ; 273             ; 084-40W                   ; 39-03N                   
+
+CZI                       ; null ; null ; null ; null ; null ; null
+
+DAL                       ; null ; null ; null ; null ; null ; null
+
+DBQ                       ; Dubuque Regional Airport                                                                             ; null ; null ; 328             ; 90-42W                    ; 42-24N                   
+
+DEN                       ; Denver International Airport                                                                         ; null ; null ; 1655            ; 104-40W                   ; 39-52N                   
+
+DIK                       ; null ; null ; null ; null ; null ; null
+
+DLH                       ; Duluth, Duluth International Airport                                                                 ; null ; null ; 435             ; 092-13-34W                ; 46-50-34N                
+
+DLN                       ; null ; null ; null ; null ; null ; null
+
+DRT                       ; Del Rio International  Airport                                                                       ; null ; null ; 304             ; 100-55W                   ; 29-22N                   
+
+DSM                       ; Des Moines International                                                                             ; null ; null ; 292             ; 93-40W                    ; 41-32N                   
+
+ECK                       ; null ; null ; null ; null ; null ; null
+
+EKN                       ; Jennings Randolph Field                                                                              ; null ; null ; 606             ; 079-51W                   ; 38-53N                   
+
+ELP                       ; El Paso International Airport                                                                        ; null ; null ; 1206            ; 106-23W                   ; 31-49N                   
+
+ELY                       ; Ely Airport (yelland Field)                                                                          ; null ; null ; 1907            ; 114-51W                   ; 39-18N                   
+
+EMI                       ; null ; null ; null ; null ; null ; null
+
+EVV                       ; Evansville Regional                                                                                  ; null ; null ; 127             ; 087-32W                   ; 38-02N                   
+
+EYW                       ; Key West International Airport                                                                       ; null ; null ; 1               ; 81-46W                    ; 24-33N                   
+
+FAT                       ; Fresno Air Terminal                                                                                  ; null ; null ; 101             ; 119-43W                   ; 36-47N                   
+
+GPI                       ; Glacier Park International  Airport                                                                  ; null ; null ; 906             ; 114-16W                   ; 48-18N                   
+
+FLO                       ; null ; null ; null ; null ; null ; null
+
+FMN                       ; null ; null ; null ; null ; null ; null
+
+FOT                       ; null ; null ; null ; null ; null ; null
+
+FSD                       ; Sioux Falls Foss Field                                                                               ; null ; null ; 436             ; 096-45W                   ; 43-35N                   
+
+FSM                       ; Fort Smith Regional Airport                                                                          ; null ; null ; 143             ; 94-22W                    ; 35-20N                   
+
+FWA                       ; Fort Wayne International                                                                             ; null ; null ; 248             ; 85-12W                    ; 41-00N                   
+
+GAG                       ; null ; null ; null ; null ; null ; null
+
+GCK                       ; null ; null ; null ; null ; null ; null
+
+GEG                       ; Spokane International Airport                                                                        ; null ; null ; 723             ; 117-32W                   ; 47-37N                   
+
+GFK                       ; null ; null ; null ; null ; null ; null
+
+GGW                       ; Glasgow International Airport                                                                        ; null ; null ; 699             ; 106-37W                   ; 48-13N                   
+
+GJT                       ; Grand Junction Walker Field                                                                          ; null ; null ; 1481            ; 108-32W                   ; 39-08N                   
+
+GLD                       ; Goodland Renner Field                                                                                ; null ; null ; 1114            ; 101-42W                   ; 39-22N                   
+
+GRB                       ; Austin Straubel International  Airport                                                               ; null ; null ; 212             ; 088-08W                   ; 44-29N                   
+
+GRI                       ; Central Nebraska Regional                                                                            ; null ; null ; 563             ; 98-19W                    ; 40-58N                   
+
+GSP                       ; Greer Greenville Spartburg                                                                           ; null ; null ; 296             ; 82-13W                    ; 34-53N                   
+
+GTF                       ; Great Falls International                                                                            ; null ; null ; 1120            ; 111-23W                   ; 47-28N                   
+
+H51                       ; null ; null ; null ; null ; null ; null
+
+H52                       ; null ; null ; null ; null ; null ; null
+
+H61                       ; null ; null ; null ; null ; null ; null
+
+HAT                       ; Cape Hatteras                                                                                        ; null ; null ; 2               ; 075-33W                   ; 35-16N                   
+
+HOU                       ; null ; null ; null ; null ; null ; null
+
+HSV                       ; Huntsville International  Jones Field                                                                ; null ; null ; 192             ; 086-47W                   ; 34-39N                   
+
+ICT                       ; Wichita Mid-continent Airport                                                                        ; null ; null ; 406             ; 97-26W                    ; 37-39N                   
+
+ILM                       ; null ; null ; null ; null ; null ; null
+
+IMB                       ; null ; null ; null ; null ; null ; null
+
+IND                       ; Indianapolis International  Airport                                                                  ; null ; null ; 243             ; 86-17W                    ; 39-43N                   
+
+INK                       ; null ; null ; null ; null ; null ; null
+
+INL                       ; Falls International Airport                                                                          ; null ; null ; 361             ; 093-24W                   ; 48-34N                   
+
+JAN                       ; Jackson, Jackson International Airport                                                               ; null ; null ; 105             ; 090-04-39W                ; 32-19-11N                
+
+JAX                       ; Jacksonville International                                                                           ; null ; null ; 9               ; 81-42W                    ; 30-30N                   
+
+JFK                       ; Kennedy International Airport                                                                        ; null ; null ; 4               ; 073-46W                   ; 40-38N                   
+
+JOT                       ; null ; null ; null ; null ; null ; null
+
+LAS                       ; Mccarran International Airport                                                                       ; null ; null ; 663             ; 115-16W                   ; 36-07N                   
+
+LBB                       ; Lubbock International Airport                                                                        ; null ; null ; 1000            ; 101-49W                   ; 33-40N                   
+
+LCH                       ; Lake Charles Regional Airport                                                                        ; null ; null ; 5               ; 093-23W                   ; 30-12N                   
+
+LIT                       ; null ; null ; null ; null ; null ; null
+
